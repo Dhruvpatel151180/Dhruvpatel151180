@@ -1,6 +1,6 @@
 # 👨‍💻 Dhruv Patel — Senior AI/ML Engineer | Python Developer | Generative AI Specialist
 
-Welcome to my GitHub! I'm **Dhruv Patel**, a seasoned technologist with **10+ years of industry experience**, including **10+ years in Python** and **5+ years specializing in AI/ML and Generative AI**. I design and deliver **AI-first, automation-powered, production-grade systems** that solve complex real-world problems across **fintech, healthcare, e-commerce, crypto, edtech, and legaltech**.
+Welcome to my GitHub! I'm **Dhruv Patel**, a seasoned technologist with **10+ years of industry experience**, including **5+ years in Python** and **5+ years specializing in AI/ML and Generative AI**. I design and deliver **AI-first, automation-powered, production-grade systems** that solve complex real-world problems across **fintech, healthcare, e-commerce, crypto, edtech, and legaltech**.
 
 ---
 
